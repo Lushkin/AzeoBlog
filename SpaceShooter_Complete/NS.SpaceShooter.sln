@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NS.SpaceShooter", "NS.SpaceShooter\NS.SpaceShooter.csproj", "{B5E4C303-A157-4D1B-AD22-4073232CBFC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NS.SpaceShooter.Contracts", "NS.SpaceShooter.Contracts\NS.SpaceShooter.Contracts.csproj", "{F69F97D2-1FBD-484D-B876-279498471C02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NS.SpaceShooter.Models", "NS.SpaceShooter.Models\NS.SpaceShooter.Models.csproj", "{6B29F0ED-5241-4DA0-859F-A26F17F5AE1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5E4C303-A157-4D1B-AD22-4073232CBFC9}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{B5E4C303-A157-4D1B-AD22-4073232CBFC9}.Debug|x86.ActiveCfg = Debug|x86
+		{B5E4C303-A157-4D1B-AD22-4073232CBFC9}.Debug|x86.Build.0 = Debug|x86
+		{B5E4C303-A157-4D1B-AD22-4073232CBFC9}.Release|Any CPU.ActiveCfg = Release|x86
+		{B5E4C303-A157-4D1B-AD22-4073232CBFC9}.Release|x86.ActiveCfg = Release|x86
+		{B5E4C303-A157-4D1B-AD22-4073232CBFC9}.Release|x86.Build.0 = Release|x86
+		{F69F97D2-1FBD-484D-B876-279498471C02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F69F97D2-1FBD-484D-B876-279498471C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F69F97D2-1FBD-484D-B876-279498471C02}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F69F97D2-1FBD-484D-B876-279498471C02}.Debug|x86.Build.0 = Debug|Any CPU
+		{F69F97D2-1FBD-484D-B876-279498471C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F69F97D2-1FBD-484D-B876-279498471C02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F69F97D2-1FBD-484D-B876-279498471C02}.Release|x86.ActiveCfg = Release|Any CPU
+		{F69F97D2-1FBD-484D-B876-279498471C02}.Release|x86.Build.0 = Release|Any CPU
+		{6B29F0ED-5241-4DA0-859F-A26F17F5AE1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B29F0ED-5241-4DA0-859F-A26F17F5AE1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B29F0ED-5241-4DA0-859F-A26F17F5AE1A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6B29F0ED-5241-4DA0-859F-A26F17F5AE1A}.Debug|x86.Build.0 = Debug|Any CPU
+		{6B29F0ED-5241-4DA0-859F-A26F17F5AE1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B29F0ED-5241-4DA0-859F-A26F17F5AE1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B29F0ED-5241-4DA0-859F-A26F17F5AE1A}.Release|x86.ActiveCfg = Release|Any CPU
+		{6B29F0ED-5241-4DA0-859F-A26F17F5AE1A}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {716E6AF3-7749-48DB-8A25-DF752E137DEB}
+	EndGlobalSection
+EndGlobal
