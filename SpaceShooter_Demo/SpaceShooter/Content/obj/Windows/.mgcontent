@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/RomanLushkin/Documents/2-Dev/Game/SpaceShooter/SpaceShooter/Content/Images/Ship.png</File>
+    <File>C:/Users/RomanLushkin/Documents/2-Dev/Game/SpaceShooter/SpaceShooter/Content/Images/Laser.png</File>
+    <File>C:/Users/RomanLushkin/Documents/2-Dev/Game/SpaceShooter/SpaceShooter/Content/Images/Stars_Big.png</File>
+    <File>C:/Users/RomanLushkin/Documents/2-Dev/Game/SpaceShooter/SpaceShooter/Content/Images/Stars_Medium.png</File>
+    <File>C:/Users/RomanLushkin/Documents/2-Dev/Game/SpaceShooter/SpaceShooter/Content/Images/Stars_Small.png</File>
+    <File>C:/Users/RomanLushkin/Documents/2-Dev/Game/SpaceShooter/SpaceShooter/Content/Images/EnnemyShip.png</File>
+    <File>C:/Users/RomanLushkin/Documents/2-Dev/Game/SpaceShooter/SpaceShooter/Content/Images/Bullet.png</File>
+    <File>C:/Users/RomanLushkin/Documents/2-Dev/Game/SpaceShooter/SpaceShooter/Content/Fonts/GameFont.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>
